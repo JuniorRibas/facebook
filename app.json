@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "facebook",
+    "slug": "facebook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "facebook"
+}
